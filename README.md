@@ -1,3 +1,1 @@
-# Rhasspy Supervisor
-
-Generates a supervisord configuration from a Rhasspy profile.
+Moved to https://github.com/rhasspy/rhasspy-supervisor
